@@ -3,3 +3,4 @@ description: Graduate Research Assistant <br> Oden Institute, UT Austin
 author: Jerry Chen
 author_email: yuzhec@utexas.edu
 theme: jekyll-theme-cayman
+baseurl: "/jerrychen.github.io"
